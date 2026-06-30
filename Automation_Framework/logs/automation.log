@@ -1,0 +1,76 @@
+2026-06-26 15:11:47,623 - INFO - Browser launched
+2026-06-26 15:11:47,717 - INFO - ====== WebDriver manager ======
+2026-06-26 15:11:48,457 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-26 15:11:49,103 - INFO - There is no [win64] chromedriver "149.0.7827.155" for browser google-chrome "149.0.7827" in cache
+2026-06-26 15:11:49,423 - INFO - There is no [win64] chromedriver "149.0.7827.155" for browser google-chrome "149.0.7827" in cache
+2026-06-26 15:11:49,423 - INFO - Get LATEST chromedriver version for google-chrome
+2026-06-26 15:11:50,332 - INFO - WebDriver version 149.0.7827.155 selected
+2026-06-26 15:11:50,336 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-26 15:11:50,336 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-26 15:11:51,101 - INFO - Driver downloading response is 200
+2026-06-26 15:11:55,314 - INFO - Driver has been saved in cache [C:\Users\saika\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+2026-06-26 15:11:59,455 - INFO - Login started
+2026-06-26 15:12:01,507 - INFO - Login successful
+2026-06-26 15:12:01,525 - INFO - Browser closed
+2026-06-26 15:12:03,685 - INFO - Browser launched
+2026-06-26 15:12:03,685 - INFO - ====== WebDriver manager ======
+2026-06-26 15:12:04,002 - INFO - Driver [C:\Users\saika\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 15:12:07,600 - INFO - Login started
+2026-06-26 15:12:07,640 - INFO - Login failed
+2026-06-26 15:12:07,752 - INFO - Browser closed
+2026-06-26 15:12:09,870 - INFO - Browser launched
+2026-06-26 15:12:09,871 - INFO - ====== WebDriver manager ======
+2026-06-26 15:12:10,189 - INFO - Driver [C:\Users\saika\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 15:12:13,835 - INFO - Login started
+2026-06-26 15:12:13,893 - INFO - Browser closed
+2026-06-26 15:15:35,851 - INFO - Browser launched
+2026-06-26 15:15:35,854 - INFO - ====== WebDriver manager ======
+2026-06-26 15:15:36,195 - INFO - Driver [C:\Users\saika\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 15:15:39,885 - INFO - Login started
+2026-06-26 15:15:42,289 - INFO - Login successful
+2026-06-26 15:15:42,306 - INFO - Browser closed
+2026-06-26 15:15:44,432 - INFO - Browser launched
+2026-06-26 15:15:44,432 - INFO - ====== WebDriver manager ======
+2026-06-26 15:15:44,761 - INFO - Driver [C:\Users\saika\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 15:16:18,435 - INFO - Login started
+2026-06-26 15:16:18,469 - INFO - Login failed
+2026-06-26 15:16:18,995 - INFO - Browser closed
+2026-06-26 15:16:21,104 - INFO - Browser launched
+2026-06-26 15:16:21,105 - INFO - ====== WebDriver manager ======
+2026-06-26 15:16:21,446 - INFO - Driver [C:\Users\saika\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 15:16:25,441 - INFO - Login started
+2026-06-26 15:16:25,583 - INFO - Browser closed
+2026-06-26 15:18:07,076 - INFO - Browser launched
+2026-06-26 15:18:07,079 - INFO - ====== WebDriver manager ======
+2026-06-26 15:18:07,418 - INFO - Driver [C:\Users\saika\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 15:19:11,206 - INFO - Login started
+2026-06-26 15:19:12,448 - INFO - Login successful
+2026-06-26 15:19:12,491 - INFO - Browser closed
+2026-06-26 15:19:14,705 - INFO - Browser launched
+2026-06-26 15:19:14,705 - INFO - ====== WebDriver manager ======
+2026-06-26 15:19:15,039 - INFO - Driver [C:\Users\saika\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 15:19:18,492 - INFO - Login started
+2026-06-26 15:19:18,534 - INFO - Login failed
+2026-06-26 15:19:19,068 - INFO - Browser closed
+2026-06-26 15:19:21,203 - INFO - Browser launched
+2026-06-26 15:19:21,204 - INFO - ====== WebDriver manager ======
+2026-06-26 15:19:21,541 - INFO - Driver [C:\Users\saika\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 15:19:24,785 - INFO - Login started
+2026-06-26 15:19:24,941 - INFO - Browser closed
+2026-06-26 15:24:13,361 - INFO - Browser launched
+2026-06-26 15:24:13,364 - INFO - ====== WebDriver manager ======
+2026-06-26 15:24:13,714 - INFO - Driver [C:\Users\saika\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 15:24:16,888 - INFO - Login started
+2026-06-26 15:24:18,253 - INFO - Login successful
+2026-06-26 15:24:18,271 - INFO - Browser closed
+2026-06-26 15:24:20,411 - INFO - Browser launched
+2026-06-26 15:24:20,411 - INFO - ====== WebDriver manager ======
+2026-06-26 15:24:20,727 - INFO - Driver [C:\Users\saika\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 15:24:25,044 - INFO - Login started
+2026-06-26 15:24:25,085 - INFO - Login failed
+2026-06-26 15:24:25,615 - INFO - Browser closed
+2026-06-26 15:24:27,746 - INFO - Browser launched
+2026-06-26 15:24:27,746 - INFO - ====== WebDriver manager ======
+2026-06-26 15:24:28,057 - INFO - Driver [C:\Users\saika\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 15:24:32,893 - INFO - Login started
+2026-06-26 15:24:33,170 - INFO - Browser closed
